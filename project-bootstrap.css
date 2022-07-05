@@ -1,0 +1,36 @@
+
+.image{
+    background-image: url(/images/shapes/Group\ 8450.png);
+    background-position: left;
+    background-size: cover;
+    width:97%;
+    height:103%
+}
+#about{
+    background-image: url(/images/shapes/Frame\ 56.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    box-sizing:border-box;
+   
+
+
+
+}
+#recipies{
+    margin-left: 25%;
+    margin-right: 25%;
+
+    
+}
+#me{
+    font-size: 400%;
+    padding-top:65%;
+
+}
+#mee{
+    font-size: 160%;
+}
+.card{box-shadow: 1px 1px 9px black;}
+#row{
+    box-shadow: 1px 1px 6px black;
+}
